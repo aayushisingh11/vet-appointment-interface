@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vet-appointment-interface/static/css/main.b5f07a3b.chunk.css",
+    "main.js": "/vet-appointment-interface/static/js/main.d6d21f1c.chunk.js",
+    "main.js.map": "/vet-appointment-interface/static/js/main.d6d21f1c.chunk.js.map",
+    "runtime-main.js": "/vet-appointment-interface/static/js/runtime-main.395274d3.js",
+    "runtime-main.js.map": "/vet-appointment-interface/static/js/runtime-main.395274d3.js.map",
+    "static/js/2.0bac3c3c.chunk.js": "/vet-appointment-interface/static/js/2.0bac3c3c.chunk.js",
+    "static/js/2.0bac3c3c.chunk.js.map": "/vet-appointment-interface/static/js/2.0bac3c3c.chunk.js.map",
+    "index.html": "/vet-appointment-interface/index.html",
+    "static/css/main.b5f07a3b.chunk.css.map": "/vet-appointment-interface/static/css/main.b5f07a3b.chunk.css.map",
+    "static/js/2.0bac3c3c.chunk.js.LICENSE.txt": "/vet-appointment-interface/static/js/2.0bac3c3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395274d3.js",
+    "static/js/2.0bac3c3c.chunk.js",
+    "static/css/main.b5f07a3b.chunk.css",
+    "static/js/main.d6d21f1c.chunk.js"
+  ]
+}
